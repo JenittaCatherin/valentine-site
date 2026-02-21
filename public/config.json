@@ -1,0 +1,34 @@
+{
+  "names": {
+    "sender": "Jeni",
+    "receiver": "Siva"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "You make my life beautiful",
+    "yesButtonText": "YES",
+    "noButtonText": "NO",
+    "successMessage": "You just made me the happiest person alive! Nee dhaan en life la romba azhagana part. Un kooda spend panna ovvoru naalum romba special ah feel aagudhu, aana indha naal la nee enakku evlo mukkiyam nu sollanum nu thonudhu. Un love enakku strength kudukkudhu, un smile enakku happiness kudukkudhu, un presence enakku peace kudukkudhu.\n\nEnna purinjukittu, care pannitu, eppovum en pakkathula nikkaradhu ku romba thanks. Unna en life la kidaichadhu en luck. Na eppovum un mela innum innum adhigama love pannuvaen. Forever and always, neeum naanum dhaan. 💕✨\n\nNamma love start aana naal lendhu indha 4 varusham varaikum vandhadhukku romba nandri kadavuluku. Indha 4 years just numbers illa, idhu fulla memories, fights, understanding, laughter, tears, care, and unconditional love la nirainjudhu.\n\nOvvoru problem um namma rendu perum serndhu face pannom, adhunaala dhaan namma bond innum strong aagiduchu. Nee en best friend, en support system, en happiness, en comfort ellam nee dhaan.\n\nIndha 4 years la nee kudutha anbu, patience, and support ku romba thanks. Innum pala years namma serndhu sirichu, sandhoshama irukanum nu naan aasai paduren. Forever namma love ippadiye strong ah irukanum. 💕✨\n\nNamma first talk pannina naal la irundhu indha 4 varusham varaikum journey romba azhaga irundhudhu. Neraya sandhosham, konjam kovam, chinna misunderstandings irundhalum, adhellam namma love ah innum strong panniduchu.\n\nNee en kooda irundha podhu dhaan life complete ah feel aagudhu. Un support, un care, un time ellam enakku romba mukkiyam. Indha 4 years la nee kudutha anbu en life la marakka mudiyadha oru gift.\n\nInnum pala varusham namma serndhu sirichu, dream build pannitu happy ah irukanum nu aasai. Nee dhaan en forever. 💕✨\n\nLove you daaaaa mamaaaaa 😘😘😘"
+  },
+  "couplePhotos": [
+    {
+      "image": "/couple_photo/photo1.jpg",
+      "caption": "28/09/2022"
+    }
+  ],
+  "songs": [
+    {
+      "title": "Perfect",
+      "duration": "3:58",
+      "album": "Divide",
+      "artist": "G.V. Prakash",
+      "cover": "/album-covers/love-song.jpg",
+      "audio": "/songs/love.mp3"
+    }
+  ],
+  "theme": {
+    "primaryColor": "#ff69b4",
+    "secondaryColor": "#ff1493",
+    "fontFamily": "Arial, sans-serif"
+  }
+}
